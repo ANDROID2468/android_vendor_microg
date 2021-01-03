@@ -30,11 +30,7 @@ PRODUCT_PACKAGES += \
     AuroraStore \
     AuroraServices \
     FakeStore \
-    Bromite \
-    BroWeb \
     DroidGuard \
-    FDroid \
-    FDroidPrivileged \
     GmsCore \
     GoogleBackupTransport \
     GoogleCalendarSync \
