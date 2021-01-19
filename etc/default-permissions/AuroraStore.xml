@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exceptions>
-    <exception package="com.aurora.services">
+    <exception package="com.aurora.store">
         <permission name="android.permission.DELETE_PACKAGES" fixed="false" />
         <permission name="android.permission.INSTALL_PACKAGES" fixed="false" />
     </exception>

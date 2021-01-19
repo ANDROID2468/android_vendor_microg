@@ -28,7 +28,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     AuroraStore \
-    AuroraServices \
     FakeStore \
     DroidGuard \
     GmsCore \
